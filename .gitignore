@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Output files
+outputs/*.mp4
+outputs/*.gif
+*.mp4
+*.gif
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
